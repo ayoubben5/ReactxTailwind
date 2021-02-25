@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# Take a look at the landing page
 
-<bold>Take a look at the landing page</bold>
 <img src='fullcapture.png'/>
 
 ## Available Scripts
